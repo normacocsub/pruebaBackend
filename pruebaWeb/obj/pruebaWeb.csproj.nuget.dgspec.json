@@ -1,17 +1,146 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {}
+    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {
+    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
-        "projectName": "pruebaWeb",
-        "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
+        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
+                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj"
+              },
+              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +169,78 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+        "projectName": "pruebaWeb",
+        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+        "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
+                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj"
+              },
+              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

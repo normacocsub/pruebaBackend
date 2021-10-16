@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v3NHf0ShwdE2SK1A5QhOeD9PTZeFFzF3kksDOXvXyoJU5YiMSEYq+gszRDGyYQ/dO9yaVPk4ffB1PGbMv+HYSw==",
+  "dgSpecHash": "tqAjypTuMemL6hNAJcchQDAVbL3iUFhq1Xqyn5wJBrd6gTghL8w0Y9xrl4nPexLm/IjKMmAHDZ7T10R28hZEbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\norma\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
