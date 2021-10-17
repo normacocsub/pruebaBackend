@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using BLL;
@@ -50,7 +51,7 @@ namespace pruebaWeb.Controllers
             var history = new History
             {
                 City = historyInput.City,
-                Info = historyInput.Info
+                Info = DateTime.Now.ToShortDateString()
             };
             return history;
         }
