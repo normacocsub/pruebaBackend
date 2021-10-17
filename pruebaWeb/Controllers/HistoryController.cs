@@ -51,7 +51,7 @@ namespace pruebaWeb.Controllers
             var history = new History
             {
                 City = historyInput.City,
-                Info = DateTime.Now.ToShortDateString()
+                Info = historyInput.Info + DateTime.Now.ToShortDateString()
             };
             return history;
         }
