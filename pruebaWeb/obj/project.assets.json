@@ -6041,11 +6041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+      "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
       "projectName": "pruebaWeb",
-      "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+      "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
       "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
+      "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6055,17 +6055,18 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
-              "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj"
+            "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj"
             },
-            "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
-              "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+            "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
             }
           }
         }

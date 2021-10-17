@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {}
+    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {}
   },
   "projects": {
-    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
+    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
-                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj"
+              "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj"
               },
-              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
+    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
+        "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\obj\\",
+        "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,14 +193,14 @@
         }
       }
     },
-    "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {
+    "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
         "projectName": "pruebaWeb",
-        "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+        "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
         "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
+        "outputPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,17 +210,18 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
-                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj"
+              "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\BLL\\BLL.csproj"
               },
-              "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
-                "projectPath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
+              "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\Entity\\Entity.csproj"
               }
             }
           }

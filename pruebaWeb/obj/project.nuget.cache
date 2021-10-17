@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h4yuWIBjpnls+aMQro4X+9o1EYqNrwWx0Z3GEGUtexLY61XHAoXFVAKfzdRKRs6QTVghUD983ft1eoEEVGU/uw==",
+  "dgSpecHash": "m8HbkbN/SwuHxVntKZMECX2oH6KhLNN2mK20p24wgIX1wFSQHKJZNkO7/QiWBUikUFjtgaD41CzWBoqIkLMn4A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
+  "projectFilePath": "C:\\Users\\norma\\Documents\\PruebaTrabajo\\back-end\\pruebaWeb\\pruebaWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\norma\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\norma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
